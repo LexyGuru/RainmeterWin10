@@ -107,14 +107,14 @@ NetColorHideExt=0,0,0,0
 NetColorShowExt=255,255,255,50
 
 
-Disk1SkinLoc=SimplePerfMeters\DiskMeter1
-Disk2SkinLoc=SimplePerfMeters\DiskMeter2
-Disk3SkinLoc=SimplePerfMeters\DiskMeter3
-Disk4SkinLoc=SimplePerfMeters\DiskMeter4
-Disk5SkinLoc=SimplePerfMeters\DiskMeter5
-Disk6SkinLoc=SimplePerfMeters\DiskMeter6
-Disk7SkinLoc=SimplePerfMeters\DiskMeter7
-Disk8SkinLoc=SimplePerfMeters\DiskMeter8
+Disk1SkinLoc=RainmeterWin10-master\DiskMeter1
+Disk2SkinLoc=RainmeterWin10-master\DiskMeter2
+Disk3SkinLoc=RainmeterWin10-master\DiskMeter3
+Disk4SkinLoc=RainmeterWin10-master\DiskMeter4
+Disk5SkinLoc=RainmeterWin10-master\DiskMeter5
+Disk6SkinLoc=RainmeterWin10-master\DiskMeter6
+Disk7SkinLoc=RainmeterWin10-master\DiskMeter7
+Disk8SkinLoc=RainmeterWin10-master\DiskMeter8
 
 DiskColor1tempOffSelect=255,255,255,50
 DiskColor1tempOnSelect=100,250,100,220

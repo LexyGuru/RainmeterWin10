@@ -1,4 +1,7 @@
+[Variables]
 
+@Include=#@#Language\Hungarian.ini
+;@Include=#@#Language\English.ini
 
 [measureUpTime]
 Measure=UpTime
@@ -65,7 +68,6 @@ X=15
 Y=10
 W=60
 H=18
-Text=Uptime
 UpdateDivider=-1
 TransformationMatrix=#meterScaleCPU#;0;0;#meterScaleCPU#;#meterScaleCPU#;#meterScaleCPU#
 
