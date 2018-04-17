@@ -13,6 +13,7 @@
 	Author  - LexyGuru
 	Website - https://github.com/LexyGuru/RainmeterWin10
 	Donate  - https://www.paypal.me/Lekszikov
+	License - https://creativecommons.org/licenses/by-nc-sa/4.0/deed.hu
 
 # RainmeterWin10
 Wainmeter Win 10 Skin 
