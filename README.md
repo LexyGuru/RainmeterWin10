@@ -21,6 +21,22 @@ Wainmeter Win 10 Skin
 Rainmeter 4.1 Final Release
 https://github.com/rainmeter/rainmeter/releases/download/v4.1.0.2989/Rainmeter-4.1.exe
 
+
+# HWiNFO 
+```
+http://www.hwinfo.com/forum/Forum-Rainmeter-plug-in
+@Resources\RedistributablePlugin\HWiNFO.dll Plugin 32/64 Bit 
+HWiNFOSharedMemoryViewer.exe
+	
+HWiNFO v5.82 Installer for Windows (32/64-bit)
+https://www.hwinfo.com/download.php
+```
+HWiNFO Plugin install
+		Copy  --> @Resources\RedistributablePlugin\HWiNFO.dll Plugin 32/64 Bit  
+		Paste --> C:\Users\YOURNAME\AppData\Roaming\Rainmeter\Plugins\
+```
+
+```
 Win10 Skin
  - Language /HUN/ENG
  - Volume
@@ -47,5 +63,37 @@ Win10 Skin
 	- Performance - Disk
 	- Performance - Memory
 	- Performance - Network
+
 	
+HWiNFO (ENG)
+ - All-in-One
+	- Uptime
+	- CPU Usage
+	- Ram Usage
+	- PageFaults/Sec
+	- P/F Usage
+	- Disk Byte/Sec
+	- Net IO
+ - CPU MEM
+	- CPU Core
+	- CPU Core + Fan + °C
+ - Disk Config
+ - Disk Meter
+	- C ... J
+ - GPU 0
+	- Config
+	- GPU Mhz + °C + Memory
+ - GPU 1
+	- Config
+	- GPU Mhz + °C + Memory
+ - GPU 2
+	- Config
+	- GPU Mhz + °C + Memory
+ - GPU 3
+	- Config
+	- GPU Mhz + °C + Memory
+ - Network
+	- Up 
+	- Dn
+```
  
