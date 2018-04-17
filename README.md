@@ -22,7 +22,7 @@ Rainmeter 4.1 Final Release
 https://github.com/rainmeter/rainmeter/releases/download/v4.1.0.2989/Rainmeter-4.1.exe
 
 
-# HWiNFO 
+ HWiNFO 
 ```
 http://www.hwinfo.com/forum/Forum-Rainmeter-plug-in
 @Resources\RedistributablePlugin\HWiNFO.dll Plugin 32/64 Bit 
@@ -30,14 +30,15 @@ HWiNFOSharedMemoryViewer.exe
 	
 HWiNFO v5.82 Installer for Windows (32/64-bit)
 https://www.hwinfo.com/download.php
-```
+
 HWiNFO Plugin install
 		Copy  --> @Resources\RedistributablePlugin\HWiNFO.dll Plugin 32/64 Bit  
 		Paste --> C:\Users\YOURNAME\AppData\Roaming\Rainmeter\Plugins\
 ```
 
+
+# Win10 Skin
 ```
-Win10 Skin
  - Language /HUN/ENG
  - Volume
  - Date/Time widget:
@@ -64,8 +65,11 @@ Win10 Skin
 	- Performance - Memory
 	- Performance - Network
 
-	
-HWiNFO (ENG)
+```
+
+# HWiNFO (ENG)
+
+```
  - All-in-One
 	- Uptime
 	- CPU Usage
