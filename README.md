@@ -7,8 +7,7 @@
           \/   \/      \/\/            \/                    
 -----------------------------------------------------------------
 
-
-Wainmeter Win 10 Skin for Rainmeter - Welcome (intro)
+# Wainmeter Win 10 Skin for Rainmeter - Welcome (intro)
 	Author  - LexyGuru
 	Website - https://github.com/LexyGuru/RainmeterWin10
 	Donate  - https://www.paypal.me/Lekszikov
