@@ -23,6 +23,29 @@ https://github.com/rainmeter/rainmeter/releases/download/v4.1.0.2989/Rainmeter-4
 
 Win10 Skin
  - Language /HUN/ENG
- - Sound
- - Wifi
- - Time/Date
+ - Volume
+ - Date/Time widget:
+	- 12-hour time
+	- 24-hour time
+ - HardDrive widget:
+	- Auto-select drive
+	- Select from available drives
+ - WiFi widget:
+	- Show % signal strength
+	- Hide % signal strength
+ - Weather:
+	- Auto-location
+	- Set location
+	- Imperial units (F)
+	- Metric units (C)
+	- 12-hour time
+	- 24-hour time
+ - Battery
+ - Performance 
+	- Performance - Combo
+	- Performance - CPU
+	- Performance - Disk
+	- Performance - Memory
+	- Performance - Network
+	
+ 
