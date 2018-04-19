@@ -75,7 +75,7 @@ HWiNFO Plugin install
 # HWiNFO (ENG)
 
 ```
- - All-in-One HUN/ENG
+ - All-in-One
 	- Uptime
 	- CPU Usage
 	- Ram Usage
