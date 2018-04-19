@@ -42,6 +42,7 @@ HWiNFO Plugin install
 ```
  - Welcome Menü (HUN)
  	- Launcher HUN
+	- Setting Language (Hungarian / English)
 	- Launcher ENG
 	
  - Language /HUN/ENG
@@ -69,6 +70,8 @@ HWiNFO Plugin install
 	- Performance - Disk
 	- Performance - Memory
 	- Performance - Network
+- Settings
+	- Setting (HUN/ENG)
 
 ```
 
