@@ -25,7 +25,7 @@ https://github.com/rainmeter/rainmeter/releases/download/v4.2.0.3029/Rainmeter-4
 # HWiNFO 
 http://www.hwinfo.com/forum/Forum-Rainmeter-plug-in
 
-@Resources\RedistributablePlugin\HWiNFO.dll Plugin 32/64 Bit 
+@Resources\RedistributablePlugin\HWiNFO.dll Plugin 64 Bit 
 HWiNFOSharedMemoryViewer.exe
 	
 HWiNFO v5.82 Installer for Windows (32/64-bit)
@@ -33,13 +33,17 @@ https://www.hwinfo.com/download.php
 
 ```
 HWiNFO Plugin install
-		Copy  --> @Resources\RedistributablePlugin\HWiNFO.dll Plugin 32/64 Bit  
+		Copy  --> @Resources\RedistributablePlugin\HWiNFO.dll Plugin 64 Bit  
 		Paste --> C:\Users\YOURNAME\AppData\Roaming\Rainmeter\Plugins\
 ```
 
 
 # Win10 Skin
 ```
+ - Welcome Menü (HUN)
+ 	- Launcher HUN
+	- Launcher ENG
+	
  - Language /HUN/ENG
  - Volume
  - Date/Time widget:
