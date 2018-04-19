@@ -62,14 +62,21 @@ Win10 Skin Beállítása
 	
 
 HWiNFO Letöltése: https://www.hwinfo.com/download.php
-HWiNFO Plugin telepítése: 
 
-Oprendszered által preferált plugint használd!
-	- @Resources\RedistributablePlugin\32Bit\HWiNFO.dll
+Plugin pack telepítése: 
+
 	- @Resources\RedistributablePlugin\64Bit\HWiNFO.dll
-
+	- @Resources\RedistributablePlugin\64Bit\ActionTimer.dll
+	- @Resources\RedistributablePlugin\64Bit\ActiveNet.dll
+	- @Resources\RedistributablePlugin\64Bit\Chameleon.dll
+	- @Resources\RedistributablePlugin\64Bit\CheckNet.dll
+	- @Resources\RedistributablePlugin\64Bit\ConfigActive.dll
+	- @Resources\RedistributablePlugin\64Bit\FrostedGlass.dll
+	- @Resources\RedistributablePlugin\64Bit\SpotifyPlugin.dll
+	- @Resources\RedistributablePlugin\64Bit\TopProcesses.dll
+	
 C:\Users\(FELHASZNÁLO NEVED)\AppData\Roaming\Rainmeter\Plugins\
-	- Ide másold a HWiNFO.dll fájlt
+	- Ide másold a dll fájlokat
 		(Ha nem található (Plugins) mappád akkor hozd létre!)
 		
 		
