@@ -1,11 +1,12 @@
 [Variables]
 
-@Include=#@#Language\Hungarian.ini
-;@Include=#@#Language\English.ini
+@Include=#@#variables.ini
+@Include1=#@#Language\HWiNFO\#Language#.ini
+
 
 [measureUpTime]
 Measure=UpTime
-Format="%4!i!d %3!i!:%2!02i!:%1!02i!"
+Format="%4!i! #Nap# %3!i!:%2!02i!:%1!02i!"
 
 [measureCPUfreq]
 Measure=Plugin

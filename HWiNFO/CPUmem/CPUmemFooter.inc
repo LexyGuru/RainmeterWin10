@@ -105,7 +105,7 @@ NumOfDecimals=0
 Text=%1
 TransformationMatrix=#meterScaleCPU#;0;0;#meterScaleCPU#;#meterScaleCPU#;#meterScaleCPU#
 
-[meterLabelPageFaults]
+[meterLabelPageFaultsCPU]
 Meter=String
 MeasureName=measurePageFaultsSec
 MeterStyle=styleLeftTextSmall
@@ -113,8 +113,8 @@ X=10
 Y=0r
 W=140
 H=14
+Text=%1 #Faill#
 Autoscale=2
-Text=%1 Pages/sec
 NumOfDecimals=0
 TransformationMatrix=#meterScaleCPU#;0;0;#meterScaleCPU#;#meterScaleCPU#;#meterScaleCPU#
 
