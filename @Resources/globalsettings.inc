@@ -9,7 +9,7 @@ Name=GlobalSettings
 Author=LexyGuru
 Information=Global default values for all meters.
 License=Creative Commons BY-NC-SA 3.0
-Version=1.0.0
+Version=1.0.1
 
 
 ;-----------------------------
