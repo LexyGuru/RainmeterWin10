@@ -57,14 +57,14 @@ fontName=Trebuchet MS
 textSizeMd=12
 textSize=8
 
-All-in-OneSkinLoc=RainmeterWin10-master\All-in-One
-NetSkinLoc=RainmeterWin10-master\Network
-NetConfigSkinLoc=RainmeterWin10-master\Network\config
-CPUmemSkinLoc=RainmeterWin10-master\CPUmem
-PerfConfigSkinLoc=RainmeterWin10-master\perfconfig
-DiskConfigSkinLoc=RainmeterWin10-master\DiskConfig
-;GPUSkinLoc=RainmeterWin10-master\GPU
-;GPUConfigSkinLoc=RainmeterWin10-master\GPU\config
+All-in-OneSkinLoc=RainmeterWin10-master\HWiNFO\All-in-One
+NetSkinLoc=RainmeterWin10-master\HWiNFO\Network
+NetConfigSkinLoc=RainmeterWin10-master\HWiNFO\Network\config
+CPUmemSkinLoc=RainmeterWin10-master\HWiNFO\CPUmem
+PerfConfigSkinLoc=RainmeterWin10-master\HWiNFO\perfconfig
+DiskConfigSkinLoc=RainmeterWin10-master\HWiNFO\DiskConfig
+;GPUSkinLoc=RainmeterWin10-master\HWiNFO\GPU
+;GPUConfigSkinLoc=RainmeterWin10-master\HWiNFO\GPU\config
 
 BackgroundColor=0,0,0,75
 
@@ -107,14 +107,14 @@ NetColorHideExt=0,0,0,0
 NetColorShowExt=255,255,255,50
 
 
-Disk1SkinLoc=RainmeterWin10-master\DiskMeter1
-Disk2SkinLoc=RainmeterWin10-master\DiskMeter2
-Disk3SkinLoc=RainmeterWin10-master\DiskMeter3
-Disk4SkinLoc=RainmeterWin10-master\DiskMeter4
-Disk5SkinLoc=RainmeterWin10-master\DiskMeter5
-Disk6SkinLoc=RainmeterWin10-master\DiskMeter6
-Disk7SkinLoc=RainmeterWin10-master\DiskMeter7
-Disk8SkinLoc=RainmeterWin10-master\DiskMeter8
+Disk1SkinLoc=RainmeterWin10-master\HWiNFO\DiskMeter1
+Disk2SkinLoc=RainmeterWin10-master\HWiNFO\DiskMeter2
+Disk3SkinLoc=RainmeterWin10-master\HWiNFO\DiskMeter3
+Disk4SkinLoc=RainmeterWin10-master\HWiNFO\DiskMeter4
+Disk5SkinLoc=RainmeterWin10-master\HWiNFO\DiskMeter5
+Disk6SkinLoc=RainmeterWin10-master\HWiNFO\DiskMeter6
+Disk7SkinLoc=RainmeterWin10-master\HWiNFO\DiskMeter7
+Disk8SkinLoc=RainmeterWin10-master\HWiNFO\DiskMeter8
 
 DiskColor1tempOffSelect=255,255,255,50
 DiskColor1tempOnSelect=100,250,100,220
