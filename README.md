@@ -10,13 +10,23 @@
 ```
 
 # Win 10 Skin for Rainmeter - Welcome (intro)
-	Author  - LexyGuru
-	Website - https://github.com/LexyGuru/RainmeterWin10
-	Donate  - https://www.paypal.me/Lekszikov
-	License - https://creativecommons.org/licenses/by-nc-sa/4.0/deed.hu
+	Author   - LexyGuru
+	Website  - https://github.com/LexyGuru/RainmeterWin10
+	Download - https://lexyguru.deviantart.com/
+	Donate   - https://www.paypal.me/Lekszikov
+	License  - https://creativecommons.org/licenses/by-nc-sa/4.0/deed.hu
 
 # RainmeterWin10
 Wainmeter Win 10 Skin 
+
+# UPDATE: 
+NEW UPDATE
+```
+    Added - Big Clock
+    Added - Wifi Language
+    Fixed - Settings Menü
+    Update ver 1.0.2
+```
 
 4.2 Beta Release - r3029
 https://github.com/rainmeter/rainmeter/releases/download/v4.2.0.3029/Rainmeter-4.2-r3029-beta.exe
@@ -42,7 +52,7 @@ HWiNFO Plugin install
 ```
  - Welcome Menü (HUN)
  	- Launcher HUN
-	- Setting Language (Hungarian / English)
+	- Setting (Hungarian / English) + Date/Time
 	- Launcher ENG
 	
  - Language /HUN/ENG
