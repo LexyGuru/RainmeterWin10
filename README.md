@@ -28,6 +28,20 @@ NEW UPDATE
     Update ver 1.0.2
 ```
 
+NEW UPDATE (April 21)
+```
+    Launcher Menü
+        Added - Big Clock
+        Added - Steam
+ 
+    Added - MiniSteam
+
+    Update Settings Menü
+        Added - Big Clock Size
+        Added - Steam ID
+        Added - Game icon size 
+```
+
 4.2 Beta Release - r3029
 https://github.com/rainmeter/rainmeter/releases/download/v4.2.0.3029/Rainmeter-4.2-r3029-beta.exe
 
